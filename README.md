@@ -23,7 +23,7 @@ This repository contains the following files:
 6. You have been asked to provide a way via the URL of the page to only show the Aralia tree section, only the Arborvitae tree section, or only the Ash trees section.
 7. They also want to show multiple tree sections as well such as only the Aralia and Ash, or all three groupings.
 8. If there are no URL parameters present, all of the tree groupings should display.
-9. You are too develop code that uses URL Query String parameters in combination with the PHP $_GET superglobal and program logic to achieve the desired functionality.   
+9. You are to develop code that uses URL Query String parameters in combination with the PHP $_GET superglobal and program logic to achieve the desired functionality.   
 
 ## Staging Your Changes
 
